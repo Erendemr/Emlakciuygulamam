@@ -1,0 +1,10 @@
+D:\Projeler\EmlakciApplication\HouseLib\bin\Debug\netstandard2.0\HouseLib.deps.json
+D:\Projeler\EmlakciApplication\HouseLib\bin\Debug\netstandard2.0\HouseLib.dll
+D:\Projeler\EmlakciApplication\HouseLib\bin\Debug\netstandard2.0\HouseLib.pdb
+D:\Projeler\EmlakciApplication\HouseLib\obj\Debug\netstandard2.0\HouseLib.csproj.AssemblyReference.cache
+D:\Projeler\EmlakciApplication\HouseLib\obj\Debug\netstandard2.0\HouseLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\EmlakciApplication\HouseLib\obj\Debug\netstandard2.0\HouseLib.AssemblyInfoInputs.cache
+D:\Projeler\EmlakciApplication\HouseLib\obj\Debug\netstandard2.0\HouseLib.AssemblyInfo.cs
+D:\Projeler\EmlakciApplication\HouseLib\obj\Debug\netstandard2.0\HouseLib.csproj.CoreCompileInputs.cache
+D:\Projeler\EmlakciApplication\HouseLib\obj\Debug\netstandard2.0\HouseLib.dll
+D:\Projeler\EmlakciApplication\HouseLib\obj\Debug\netstandard2.0\HouseLib.pdb

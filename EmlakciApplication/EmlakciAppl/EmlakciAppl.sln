@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmlakciAppl", "EmlakciAppl.csproj", "{4625F68A-CC83-4CED-8C54-9A079C83AAD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseLib", "..\HouseLib\HouseLib.csproj", "{CC99FE74-4176-4BBD-93D8-D0630F843D8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4625F68A-CC83-4CED-8C54-9A079C83AAD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4625F68A-CC83-4CED-8C54-9A079C83AAD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4625F68A-CC83-4CED-8C54-9A079C83AAD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4625F68A-CC83-4CED-8C54-9A079C83AAD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC99FE74-4176-4BBD-93D8-D0630F843D8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC99FE74-4176-4BBD-93D8-D0630F843D8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC99FE74-4176-4BBD-93D8-D0630F843D8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC99FE74-4176-4BBD-93D8-D0630F843D8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65D7755B-ED6D-4288-AE01-4D07D20201AE}
+	EndGlobalSection
+EndGlobal

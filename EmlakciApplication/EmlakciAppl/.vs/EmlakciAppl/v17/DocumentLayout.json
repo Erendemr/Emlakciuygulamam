@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projeler\\EmlakciApplication\\EmlakciAppl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4625F68A-CC83-4CED-8C54-9A079C83AAD5}|EmlakciAppl.csproj|d:\\projeler\\emlakciapplication\\emlakciappl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4625F68A-CC83-4CED-8C54-9A079C83AAD5}|EmlakciAppl.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC99FE74-4176-4BBD-93D8-D0630F843D8F}|..\\HouseLib\\HouseLib.csproj|d:\\projeler\\emlakciapplication\\houselib\\house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "House.cs",
+              "DocumentMoniker": "D:\\Projeler\\EmlakciApplication\\HouseLib\\House.cs",
+              "RelativeDocumentMoniker": "..\\HouseLib\\House.cs",
+              "ToolTip": "D:\\Projeler\\EmlakciApplication\\HouseLib\\House.cs",
+              "RelativeToolTip": "..\\HouseLib\\House.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T13:03:27.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projeler\\EmlakciApplication\\EmlakciAppl\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Projeler\\EmlakciApplication\\EmlakciAppl\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwHEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T13:02:33.854Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
